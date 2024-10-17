@@ -1,7 +1,6 @@
 # 💫 About Me:
 Adrian Estevez | Computer Science Student | Competitive Programmer
 Currently pursuing a degree in Computer Science at the University of Havana. Passionate about solving complex problems and developing innovative solutions.
-Expertise
 
 Languages: C++ (1 year competitive programming), C# (in progress), HTML/CSS/JavaScript (basic)
 Interests: Competitive Programming, Simulations, Artificial Intelligence
